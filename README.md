@@ -1,7 +1,7 @@
 # Icebreaker Spark 🎯
 
 A beautiful and engaging app that helps two people get to know each other better through AI-powered conversation starters.
-
+Lets get to know each other 
 ## Features
 
 - 🤝 Different relationship stages (Just Met, Acquaintances, Friends, Close Friends)
