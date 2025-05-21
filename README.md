@@ -17,6 +17,7 @@ Lets get to know each other
 - Tailwind CSS
 - Firebase (for future features)
 - OpenAI API
+- Gemine(google)
 
 ## Getting Started
 
