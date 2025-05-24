@@ -67,7 +67,9 @@ npm run dev
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+add more features 
 
 ## License
 
 MIT License - feel free to use this project for learning, personal use, or in your own projects.
+
